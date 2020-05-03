@@ -4,7 +4,7 @@ title: Quick Guide
 nav_order: 2
 ---
 
-# Configuration
+# Quick Guide
 {: .no_toc }
 
 
