@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: Sales Manager
 parent: UI Components
 nav_order: 2
 ---
