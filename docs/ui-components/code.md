@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Code
-parent: UI Components
+title: Payment
+parent: CMS Modules
 nav_order: 6
 ---
 
