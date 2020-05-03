@@ -18,10 +18,6 @@ permalink: /
 ### Dependencies
 ### Quick start: Use as a GitHub Pages remote theme
 
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-
 ### Local installation: Use the gem-based theme
 
 
